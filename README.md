@@ -3,7 +3,7 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 > The beginner ... should not be discouraged if ... he finds that he does not have
 > the prerequisites for reading the prerequisites.
 
-## Programming Languages Used
+## Languages Used
 
 * Bash
 * C
@@ -21,15 +21,14 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 ## Non-professional Interests
 
 * Privacy, security, and anonymity on the Internet
-* Infosec
-* Resisting mass surveillance
+* Infosec and physical security
+* Mass surveillance deterrence
 * Linux
 * Free and open-source software + hardware
 * Dark themes
 
-### Cryptocurrency Coin Address(es)
+## Monero (XMR) Address
 
-Monero (XMR):
 ```
 86SCYAZ2D4x5zpQ1qfZ4yEZ9FxkPwCNNx56q4eGwsRMsRXZsH9vmJPFfBxG7mC5GPQgcQa7woKhzmer1pyNoEemKMtu5zp4
 ```
