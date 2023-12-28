@@ -25,7 +25,7 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 * Mass surveillance deterrence
 * Linux
 * Free and open-source software + hardware
-* Dark themes
+* Dark UI themes
 
 ## Monero (XMR) Address
 
