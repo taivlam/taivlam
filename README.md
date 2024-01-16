@@ -34,3 +34,7 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 ```
 
 ![QR code for my Monero address on GitHub, 86SCYAZ2D4x5zpQ1qfZ4yEZ9FxkPwCNNx56q4eGwsRMsRXZsH9vmJPFfBxG7mC5GPQgcQa7woKhzmer1pyNoEemKMtu5zp4](github_monero.svg "QR Code for my Monero address on GitHub")
+
+## Profile avatar credit
+Sketch by JG
+
