@@ -14,11 +14,11 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
     * SageMath
 * XML
 
-## Professional Interests
+## Academic Interests
 
 * Quantum computers and quantum cryptography
 
-## Non-professional Interests
+## Other Interests
 
 * Privacy, security, and anonymity on the Internet
 * Infosec and physical security
@@ -26,6 +26,7 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 * Linux
 * Free and open-source software + hardware
 * Dark UI themes
+* Sociology of the internet
 
 ## Monero (XMR) Address
 
@@ -35,6 +36,6 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 
 ![QR code for my Monero address on GitHub, 86SCYAZ2D4x5zpQ1qfZ4yEZ9FxkPwCNNx56q4eGwsRMsRXZsH9vmJPFfBxG7mC5GPQgcQa7woKhzmer1pyNoEemKMtu5zp4](github_monero.svg "QR Code for my Monero address on GitHub")
 
-## Profile avatar credit
+## Avatar credit
 Sketch by JG
 
