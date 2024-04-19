@@ -28,7 +28,7 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 * Linux
 * Free and open-source software + hardware
 * Dark UI themes
-* Sociology of the internet
+* [Sociology of the internet](https://en.wikipedia.org/wiki/Sociology_of_the_Internet)
 
 ## Monero (XMR) Address
 
