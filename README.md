@@ -5,14 +5,14 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 
 ## Languages Used
 
-* Bash
-* C
-* CSS
-* HTML
-* MATLAB
-* Python
-    * SageMath
-* XML
+* [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+* [C](https://en.wikipedia.org/wiki/C_(programming_language))
+* [HTML](https://en.wikipedia.org/wiki/HTML) and [CSS](https://en.wikipedia.org/wiki/CSS)
+* [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))
+* [MATLAB](https://en.wikipedia.org/wiki/MATLAB)
+* [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+    * [SageMath](https://en.wikipedia.org/wiki/SageMath)
+* [XML](https://en.wikipedia.org/wiki/XML)
 
 ## Academic Interests
 
