@@ -35,8 +35,7 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
         * [SoloKeys 2](https://github.com/solokeys/solo2)
 * Open-source hardware
     * [Betrusted](https://betrusted.io/)
-        * [IRIS](https://www.bunniestudios.com/blog/2024/iris-infra-red-in-situ-project-updates/) project to non-destructively inspect silicon
-            * Also on [arXiv](https://doi.org/10.48550/arXiv.2303.07406)
+        * [IRIS](https://www.bunniestudios.com/blog/2024/iris-infra-red-in-situ-project-updates/) project to non-destructively inspect silicon (also on [arXiv](https://doi.org/10.48550/arXiv.2303.07406))
         * [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) as the first Betrusted project device
     * [Framework laptops](https://en.wikipedia.org/wiki/Framework_Computer)
     * [Tangara](https://www.crowdsupply.com/cool-tech-zone/tangara) music player
