@@ -24,7 +24,7 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
     * ["Against the Law: Countering Lawful Abuses of Digital Surveillance"](https://doi.org/10.21428/12268) by Andrew "bunnie" Huang and Edward Snowden
     * Introspection Engine eventually lead to Betrusted
 * Linux: [Arch Linux](https://en.wikipedia.org/wiki/Arch_Linux), [Alpine Linux](https://en.wikipedia.org/wiki/Alpine_Linux), [Pop!\_OS](https://en.wikipedia.org/wiki/Pop!_OS), [Tails](https://en.wikipedia.org/wiki/Tails_(operating_system)), [Whonix](https://en.wikipedia.org/wiki/Whonix)
-* Android: [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS), [DivestOS](https://en.wikipedia.org/wiki/DivestOS)
+* Android: [GrapheneOS](https://en.wikipedia.org/wiki/GrapheneOS)
 * Xen Hypervisor: [Qubes OS](https://en.wikipedia.org/wiki/Qubes_OS)
 * Open-source software projects, such as: [Signal](https://en.wikipedia.org/wiki/Signal_(messaging_app))
 * Open-source firmware projects, such as: [coreboot](https://en.wikipedia.org/wiki/Coreboot) and [Trussed](https://trussed.dev/), which includes the [Nitrokey 3](https://shop.nitrokey.com/shop?&search=nitrokey%203) and [SoloKey 2](https://github.com/solokeys/solo2)
