@@ -30,8 +30,8 @@ Words from [Paul Halmos](https://en.wikipedia.org/wiki/Paul_Halmos):
 * Open-source firmware projects, such as: [coreboot](https://en.wikipedia.org/wiki/Coreboot) and [Trussed](https://trussed.dev/), which includes the [Nitrokey 3](https://shop.nitrokey.com/shop?&search=nitrokey%203) and [SoloKey 2](https://github.com/solokeys/solo2)
 * Open-source hardware projects, such as: [Betrusted](https://betrusted.io/), which includes [IRIS](https://www.bunniestudios.com/blog/2024/iris-infra-red-in-situ-project-updates/), a method to non-destructively inspect silicon (also on [arXiv](https://doi.org/10.48550/arXiv.2303.07406)), and [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) as the first Betrusted project device; [Framework laptops](https://en.wikipedia.org/wiki/Framework_Computer); the [Tangara](https://www.crowdsupply.com/cool-tech-zone/tangara) music player, and the [Virgo laptop](https://github.com/system76/virgo/) from System76 (WIP)
 * Rust, such as: System76's "Epoch" rewrite of its [COSMIC](https://github.com/pop-os/cosmic-epoch) desktop environment
-* [Right to repair](https://en.wikipedia.org/wiki/Right_to_repair)
-* [3D printing](https://en.wikipedia.org/wiki/3D_printing)
+* Right to repair
+* 3D printing
 
 ## Monero (XMR) Address
 
